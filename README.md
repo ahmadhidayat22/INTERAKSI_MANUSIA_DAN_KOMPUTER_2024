@@ -1,1 +1,3 @@
-# INTERAKSI_MANUSIA_DAN_KOMPUTER_2024
+# FINAL REPORT IMK 2024
+membuat showcase dari prototype yang telah dibuat dengan menggunakan software figma dan di upload ke platform dribble 
+
